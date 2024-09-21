@@ -59,7 +59,7 @@ const funnyHeadline2 = "Students Cook & Serve Grandparents";
 
 
 // Check the first headline
-if (funnyHeadline1.includes("oxygen") === true){
+if (funnyHeadline1.includes("oxygen")){
     console.log("The string includes the word 'oxygen'")
     }else {
         console.log("The string does not include the word 'oxygen'")
